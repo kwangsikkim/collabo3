@@ -9,5 +9,10 @@ aaaa
 aaaa
 aaaa
 aaaa
+<<<<<<< HEAD
 aa
 aa
+=======
+aaa
+aaa
+>>>>>>> master
